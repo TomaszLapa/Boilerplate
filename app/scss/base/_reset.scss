@@ -1,0 +1,38 @@
+// -----------------------------
+// This file contains reset CSS.
+// -----------------------------
+
+
+*, *::before, *::after {
+  box-sizing: border-box;
+}
+
+* {
+  margin: 0;
+}
+
+// Allow percentage based heights in site
+html, body {
+  height: 100%;
+}
+
+// Adds accessible line height
+html {
+  line-height: 1.5;
+}
+
+// Improve media defaults
+img, picture, video, canvas, svg {
+  display: block;
+  max-width: 100%;
+}
+
+// Remove built-in typography form styles
+input, button, textarea, select {
+  font: inherit;
+}
+
+// Avoid text overflows
+p, h1, h2, h3, h4, h5, h6 {
+  overflow-wrap: break-word;
+}

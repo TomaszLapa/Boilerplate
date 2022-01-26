@@ -1,0 +1,22 @@
+{
+    "version": 3,
+    "mappings": "AIKA,AAAA,CAAC,EAAE,CAAC,AAAA,QAAQ,EAAE,CAAC,AAAA,OAAO,CAAC;EACrB,UAAU,EAAE,UAAU;CACvB;;AAED,AAAA,CAAC,CAAC;EACA,MAAM,EAAE,CAAC;CACV;;AAGD,AAAA,IAAI,EAAE,IAAI,CAAC;EACT,MAAM,EAAE,IAAI;CACb;;AAGD,AAAA,IAAI,CAAC;EACH,WAAW,EAAE,GAAG;CACjB;;AAGD,AAAA,GAAG,EAAE,OAAO,EAAE,KAAK,EAAE,MAAM,EAAE,GAAG,CAAC;EAC/B,OAAO,EAAE,KAAK;EACd,SAAS,EAAE,IAAI;CAChB;;AAGD,AAAA,KAAK,EAAE,MAAM,EAAE,QAAQ,EAAE,MAAM,CAAC;EAC9B,IAAI,EAAE,OAAO;CACd;;AAGD,AAAA,CAAC,EAAE,EAAE,EAAE,EAAE,EAAE,EAAE,EAAE,EAAE,EAAE,EAAE,EAAE,EAAE,CAAC;EACxB,aAAa,EAAE,UAAU;CAC1B",
+    "sources": [
+        "../../app/scss/main.scss",
+        "../../app/scss/abstracts/_functions.scss",
+        "../../app/scss/abstracts/_mixins.scss",
+        "../../app/scss/abstracts/_variables.scss",
+        "../../app/scss/base/_reset.scss",
+        "../../app/scss/base/_typography.scss",
+        "../../app/scss/layout/_footer.scss",
+        "../../app/scss/layout/_forms.scss",
+        "../../app/scss/layout/_grid.scss",
+        "../../app/scss/layout/_header.scss",
+        "../../app/scss/layout/_navigation.scss",
+        "../../app/scss/components/_buttons.scss",
+        "../../app/scss/pages/_index.scss",
+        "../../app/scss/pages/_404.scss"
+    ],
+    "names": [],
+    "file": "main.css"
+}
